@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/ziweiq2/LibPressio/project/build",
+  "command": "/home/ziweiq2/LibPressio/mydevenv/.spack-env/view/bin/g++  -I/home/ziweiq2/LibPressio/predict-install/include -isystem /home/ziweiq2/LibPressio/mydevenv/.spack-env/view/include -isystem /home/ziweiq2/LibPressio/mydevenv/.spack-env/view/include/libpressio -isystem /home/ziweiq2/LibPressio/mydevenv/.spack-env/view/include/libpressio_predict -isystem /home/ziweiq2/LibPressio/mydevenv/.spack-env/view/include/libpressio_dataset -std=gnu++23 -o CMakeFiles/evaluation.dir/evaluation.cc.o -c /home/ziweiq2/LibPressio/project/evaluation.cc",
+  "file": "/home/ziweiq2/LibPressio/project/evaluation.cc",
+  "output": "CMakeFiles/evaluation.dir/evaluation.cc.o"
+}
+]

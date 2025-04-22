@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/ziweiq2/LibPressio/project",
+  "command": "/home/ziweiq2/LibPressio/mydevenv/.spack-env/view/bin/g++  -I/home/ziweiq2/LibPressio/predict-install/include -O3 -DNDEBUG -o CMakeFiles/evaluation_tao2019.dir/evaluation_tao2019.cc.o -c /home/ziweiq2/LibPressio/project/evaluation_tao2019.cc",
+  "file": "/home/ziweiq2/LibPressio/project/evaluation_tao2019.cc",
+  "output": "CMakeFiles/evaluation_tao2019.dir/evaluation_tao2019.cc.o"
+}
+]

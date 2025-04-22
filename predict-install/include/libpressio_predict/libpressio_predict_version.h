@@ -1,0 +1,17 @@
+#ifndef LIBPRESSIO_PREDICT_VERSION_H_BQPHFG4E
+#define LIBPRESSIO_PREDICT_VERSION_H_BQPHFG4E
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+#define LIBPRESSIO_PREDICT_MAJOR_VERSION 0
+#define LIBPRESSIO_PREDICT_MINOR_VERSION 0
+#define LIBPRESSIO_PREDICT_PATCH_VERSION 6
+#define LIBPRESSIO_PREDICT_USE_MPI 1
+
+
+#ifdef __cplusplus
+}
+#endif
+#endif /* end of include guard: LIBPRESSIO_PREDICT_H_BQPHFG4E */
+

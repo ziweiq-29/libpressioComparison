@@ -1,0 +1,80 @@
+Processing: dataset/100x500x500/CLOUDf48.bin.f32
+size:compression_ratio<double> = 159.072
+time:compress_many<uint32> = 290
+----------------------------------------
+Processing: dataset/100x500x500/CLOUDf48.log10.bin.f32
+size:compression_ratio<double> = 40.689
+time:compress_many<uint32> = 394
+----------------------------------------
+Processing: dataset/100x500x500/PRECIPf48.bin.f32
+size:compression_ratio<double> = 403.052
+time:compress_many<uint32> = 273
+----------------------------------------
+Processing: dataset/100x500x500/PRECIPf48.log10.bin.f32
+size:compression_ratio<double> = 33.7014
+time:compress_many<uint32> = 335
+----------------------------------------
+Processing: dataset/100x500x500/Pf48.bin.f32
+size:compression_ratio<double> = 338.032
+time:compress_many<uint32> = 254
+----------------------------------------
+Processing: dataset/100x500x500/QCLOUDf48.bin.f32
+size:compression_ratio<double> = 225.085
+time:compress_many<uint32> = 281
+----------------------------------------
+Processing: dataset/100x500x500/QCLOUDf48.log10.bin.f32
+size:compression_ratio<double> = 71.2116
+time:compress_many<uint32> = 348
+----------------------------------------
+Processing: dataset/100x500x500/QGRAUPf48.bin.f32
+size:compression_ratio<double> = 1082.01
+time:compress_many<uint32> = 269
+----------------------------------------
+Processing: dataset/100x500x500/QGRAUPf48.log10.bin.f32
+size:compression_ratio<double> = 24.3622
+time:compress_many<uint32> = 368
+----------------------------------------
+Processing: dataset/100x500x500/QICEf48.bin.f32
+size:compression_ratio<double> = 294.629
+time:compress_many<uint32> = 279
+----------------------------------------
+Processing: dataset/100x500x500/QICEf48.log10.bin.f32
+size:compression_ratio<double> = 57.9097
+time:compress_many<uint32> = 354
+----------------------------------------
+Processing: dataset/100x500x500/QRAINf48.bin.f32
+size:compression_ratio<double> = 597.514
+time:compress_many<uint32> = 271
+----------------------------------------
+Processing: dataset/100x500x500/QRAINf48.log10.bin.f32
+size:compression_ratio<double> = 20.378
+time:compress_many<uint32> = 380
+----------------------------------------
+Processing: dataset/100x500x500/QSNOWf48.bin.f32
+size:compression_ratio<double> = 320.209
+time:compress_many<uint32> = 279
+----------------------------------------
+Processing: dataset/100x500x500/QSNOWf48.log10.bin.f32
+size:compression_ratio<double> = 25.9318
+time:compress_many<uint32> = 364
+----------------------------------------
+Processing: dataset/100x500x500/QVAPORf48.bin.f32
+size:compression_ratio<double> = 68.5648
+time:compress_many<uint32> = 335
+----------------------------------------
+Processing: dataset/100x500x500/TCf48.bin.f32
+size:compression_ratio<double> = 282.131
+time:compress_many<uint32> = 253
+----------------------------------------
+Processing: dataset/100x500x500/Uf48.bin.f32
+size:compression_ratio<double> = 117.552
+time:compress_many<uint32> = 272
+----------------------------------------
+Processing: dataset/100x500x500/Vf48.bin.f32
+size:compression_ratio<double> = 123.807
+time:compress_many<uint32> = 264
+----------------------------------------
+Processing: dataset/100x500x500/Wf48.bin.f32
+size:compression_ratio<double> = 113.052
+time:compress_many<uint32> = 295
+----------------------------------------

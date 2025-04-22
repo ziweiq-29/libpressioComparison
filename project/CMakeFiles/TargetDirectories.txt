@@ -1,0 +1,3 @@
+/home/ziweiq2/LibPressio/project/CMakeFiles/evaluation_tao2019.dir
+/home/ziweiq2/LibPressio/project/CMakeFiles/edit_cache.dir
+/home/ziweiq2/LibPressio/project/CMakeFiles/rebuild_cache.dir
